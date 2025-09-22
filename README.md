@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 *got locked out of my old github, new one still in progress*
 
 I’m **Sam**, a Computer Engineering student at McMaster University passionate about **hardware, software, and solving real-world problems through technology**.  
 
